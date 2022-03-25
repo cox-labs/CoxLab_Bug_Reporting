@@ -12,6 +12,7 @@ Tell us how you got to that issue. Be detailed. Its a lot easier to deal with bu
 
 To report a bug please use the link: https://github.com/cox-labs/CoxLab_Bug_Reporting/issues
 
-Thank You
-Coxs Lab Team
+Thank You,
+
+Cox's Lab Team
 
