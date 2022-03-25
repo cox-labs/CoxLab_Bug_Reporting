@@ -1,1 +1,1 @@
-# -CoxLab_Bug_Reporting
+# CoxLab_Bug_Reporting
