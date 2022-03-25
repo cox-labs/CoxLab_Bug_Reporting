@@ -10,3 +10,8 @@ It always helps if you show us what the bug looks like.
 3. Steps to reproduce
 Tell us how you got to that issue. Be detailed. Its a lot easier to deal with bugs if you know how to lure them out!
 
+To report a bug please use the link: https://github.com/cox-labs/CoxLab_Bug_Reporting/issues
+
+Thank You
+Coxs Lab Team
+
