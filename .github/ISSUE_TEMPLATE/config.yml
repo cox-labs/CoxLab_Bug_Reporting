@@ -1,1 +1,8 @@
 blank_issues_enabled: false
+contact_links:
+  - name: MaxQuant Bug Report
+    url: https://github.com/cox-labs/CoxLab_Bug_Reporting/issues/new?template=mq-bug-report.md
+    about: Create a report to help us improve MaxQuant and better support
+  - name: Perseus Bug Request
+    url: https://github.com/cox-labs/CoxLab_Bug_Reporting/issues/new?template=perseus-bug-report.md
+    about: Create a report to help us improve Perseus and better support
