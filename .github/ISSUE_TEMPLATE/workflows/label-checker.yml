@@ -1,1 +1,19 @@
+name: Enforce Labels on Issues
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  enforce-labels:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check if issue has a label
+      uses: actions/github-script@v6
+      with:
+        script: |
+          const issueLabels = context.payload.issue.labels;
+          if (issueLabels.length === 0) {
+            throw new Error('This issue must have at least one label.');
+          }
 
