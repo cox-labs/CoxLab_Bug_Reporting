@@ -14,7 +14,15 @@ It always helps if you show us what the bug looks like.
 #### Steps to reproduce
 Tell us how you got to that issue. Be detailed. Its a lot easier to deal with bugs if you know how to lure them out!
 
-To report a bug please use the link: https://github.com/cox-labs/CoxLab_Bug_Reporting/issues
+
+### How to request a feature
+
+Explain the feature in detail and we will add it to our todo list
+
+
+### To report a bug and to request a feature please use the link: https://github.com/cox-labs/CoxLab_Bug_Reporting/issues
+
+
 
 Thank You,
 
